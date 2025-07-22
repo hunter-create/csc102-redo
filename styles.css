@@ -1,0 +1,26 @@
+body {
+    background-color: #510c0c;
+    font-family:cursive;
+}
+h1{
+    text-align: center;
+    color: #f2f2f2;
+    font-size: 50px;
+}
+#counter {
+    color: #f2f2f2;
+    font-size: 30px;
+    margin-left: 725px;
+    margin-right: 725px;
+}
+p {
+    text-align: center;
+    color: #f2f2f2;
+    font-size: 20px;
+}
+#clicker {
+    margin-left: 675px;
+    color: #000000;
+    font-size: 20px;
+    border-radius: 5px;
+}
