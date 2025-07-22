@@ -1,0 +1,22 @@
+/* body is our selector for what we want to style */
+body{
+    background-color: #2f5357;
+    font-family: Arial, sans-serif;
+}
+nav {
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+#memeimage {
+    margin-right: 200px;   
+}
+header {
+    text-align: center;
+}
